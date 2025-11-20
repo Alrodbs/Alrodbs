@@ -21,6 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+
+  <!-- ÍCONE DE CRIPTOMOEDA AQUI -->
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" height="30" alt="bitcoin logo" />
 </div>
 
 <div align="left">
