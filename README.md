@@ -3,8 +3,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alrodbs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<!-- GIF de ficção científica -->
-<img align="right" height="200" src="https://i.pinimg.com/originals/cf/bd/8e/cfbd8e185a502820a0d9c79559411a38.gif" alt="supernova explosion" />
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/e3/f9/ea/e3f9eab6c3c16565deca9b374bed7e4d.gif" alt="supernova explosion" />
 
 
 <div align="left">
