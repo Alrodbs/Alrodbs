@@ -12,7 +12,7 @@
 
 
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/e3/f9/ea/e3f9eab6c3c16565deca9b374bed7e4d.gif" alt="supernova explosion" />
+<img align="right" height="200" src="https://i0.wp.com/startrekweb.wordpress.com/wp-content/uploads/2016/10/star-trek-enterprise-animated-gif-14.gif" alt="supernova explosion" />
 
 
 <div align="left">
