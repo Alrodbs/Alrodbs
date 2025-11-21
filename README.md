@@ -19,23 +19,26 @@
 <!-- Tech Stack -->
 <div align="left">
   <h3>⚙️ Tech Stack</h3>
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /></td>
-      <td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" height="40" alt="Bitcoin" /></td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="Arch Linux" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /> &nbsp;
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" height="40" alt="Bitcoin" />
 </div>
 
 <br />
+
+<!-- Projetos em Destaque -->
+<div align="left">
+  <h3>🚀 Projetos em Destaque</h3>
+  <ul>
+    <li><a href="https://github.com/Alrodbs/projeto-exemplo1">Projeto Exemplo 1</a> - Descrição breve do projeto.</li>
+    <li><a href="https://github.com/Alrodbs/projeto-exemplo2">Projeto Exemplo 2</a> - Outra descrição interessante.</li>
+  </ul>
+
 
 <!-- Social Links -->
 <div align="left">
@@ -49,8 +52,3 @@
 </div>
 
 <br clear="both" />
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alrodbs.Alrodbs" alt="Visitor Count" />
-</div>
