@@ -1,24 +1,20 @@
-<div align="center">
-  <h1>Olá, eu sou Arlindo! 👋</h1>
-  <p>Desenvolvedor apaixonado por tecnologia, open-source e exploração de novas ideias. Sempre aprendendo e compartilhando conhecimento.</p>
-</div>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Alrodbs">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alrodbs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Alrodbs">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alrodbs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
-</div>
+<h1 align="center">Hi , I'm <span style="color:#00BFFF;">Arlindo</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- GIF à direita -->
-<img align="right" height="200" style="border-radius: 8px; margin-left: 20px;" src="https://i0.wp.com/startrekweb.wordpress.com/wp-content/uploads/2016/10/star-trek-enterprise-animated-gif-14.gif" alt="Star Trek GIF" />
+<br>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alrodbs&show_icons=true&theme=tokyonight&border_radius=12"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alrodbs&layout=compact&theme=tokyonight&border_radius=12"/>
+</p>
+
+<br>
+
+## 🔥 Skills  
+<br>
+
+<p align="center">
 <!-- Tech Stack -->
-<div align="left">
-  <h3>⚙️ Tech Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /> &nbsp;
@@ -29,7 +25,11 @@
   <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" height="40" alt="Bitcoin" />
 </div>
 
-<br />
+</p>
+
+<br>
+
+---
 
 <!-- Projetos em Destaque -->
 <div align="left">
@@ -39,16 +39,40 @@
     <li><a href="https://github.com/Alrodbs/projeto-exemplo2">Projeto Exemplo 2</a> - Outra descrição interessante.</li>
   </ul>
 
-
-<!-- Social Links -->
-<div align="left">
-  <h3>🌐 Contato</h3>
-  <a href="https://discord.gg/Y29Z7p6m" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/arlindo-leite-4ba651274" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
+</p>
 
-<br clear="both" />
+<br>
+
+---
+
+
+
+---
+
+## 🤝 Let’s Connect..!
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+</a>
+
+<a href="https://github.com/Alrodbs" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFFF"/>
+</a>
+
+<a href="https://dev.to/alrodbs" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=00FFFF"/>
+</a>
+
+<a href="mailto:your@email.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
+</a>
+
+</p>
+
+---
+
+<br><br>
