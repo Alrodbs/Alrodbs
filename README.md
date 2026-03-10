@@ -59,10 +59,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
 </a>
 
-<a href="https://github.com/Alrodbs" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFFF"/>
-</a>
-
 <a href="https://dev.to/alrodbs" target="_blank">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=00FFFF"/>
 </a>
